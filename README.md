@@ -33,3 +33,8 @@ commands.spawn(
     .bundle(MessageMarkerComponent)
 );
 ```
+
+# Examples
+```
+cargo run --example hello_world
+```
